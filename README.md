@@ -112,6 +112,6 @@ sh scripts/dist_train.sh \
 Please find tunable parameters in the script.
 
 ### Acknowledgement
-This code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [3DIoUMatch](https://github.com/THU17cyz/3DIoUMatch-PVRCNN).
+This code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [3DIoUMatch](https://github.com/THU17cyz/3DIoUMatch-PVRCNN) and [HSSDA](https://github.com/azhuantou/HSSDA).
 
 If you find some help for you, star is a good reward ^_^.
