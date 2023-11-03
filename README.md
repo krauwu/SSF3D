@@ -1,7 +1,7 @@
 # SDF3D
 
 ## Introduction
-we write our codes on HSSDA's framework and increased its performance.
+we write our codes on HSSDA's framework and surpass its performance.
 The setup operations are same as HSSDA and the code will be completed soon.
 
 ## Installation
