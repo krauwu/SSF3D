@@ -114,4 +114,4 @@ Please find tunable parameters in the script.
 ### Acknowledgement
 This code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [3DIoUMatch](https://github.com/THU17cyz/3DIoUMatch-PVRCNN) and [HSSDA](https://github.com/azhuantou/HSSDA).
 
-If you find some help for you, star is a good reward ^_^.
+Sincerely thanks for the previous works.
