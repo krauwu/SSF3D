@@ -1,4 +1,4 @@
-# SDF3D
+# SFF3D
 
 ## Introduction
 we write our codes on HSSDA's framework and surpass its performance, due to we train and evaluate on a single GPU, the multi-GPU SDF3D is not available yet.
